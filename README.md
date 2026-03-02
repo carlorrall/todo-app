@@ -1,5 +1,6 @@
 # Vanilla JS Todo App
 A simple Todo application built with HTML, CSS, and JavaScript.
+Live Demo: https://carlorrall.github.io/todo-app/
 
 ## Features
 - Add todos
